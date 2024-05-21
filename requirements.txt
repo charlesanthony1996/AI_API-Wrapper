@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+openai
+python-dotenv
+groq
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+chromadb
+json5
